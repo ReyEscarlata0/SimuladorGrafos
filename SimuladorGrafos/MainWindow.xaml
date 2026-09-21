@@ -6,7 +6,8 @@
         Title="Simulador Visual de Algoritmos de Grafos" Height="800" Width="1360"
         MinHeight="640" MinWidth="1040"
         Background="{StaticResource WindowBrush}"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        Icon="Assets/AppIcon.ico">
 
     <Window.Resources>
         <conv:EstadoNodoABrushConverter x:Key="EstadoNodoABrush"/>

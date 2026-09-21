@@ -28,3 +28,10 @@ x86/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Entregables (generados, no son parte del codigo fuente)
+/Entrega/
+Entrega_SimuladorGrafos_Grupo.zip
+
+# Carpeta de publicacion (build generado)
+/publicar/
